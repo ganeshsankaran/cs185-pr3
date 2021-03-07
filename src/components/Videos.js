@@ -1,6 +1,6 @@
 import { Component } from 'react';
 
-class Images extends Component {
+class Videos extends Component {
     constructor() {
         super();
         this.onClickHandler = this.onClickHandler.bind(this);
@@ -61,4 +61,4 @@ class Images extends Component {
     }
 }
 
-export default Images;
+export default Videos;
